@@ -43,6 +43,10 @@
     margin-bottom: 1em;
 }
 
+.reference-header h4 {
+    margin-top: 10px;
+}
+
 .reference {
     margin-bottom: 20px;
 }
